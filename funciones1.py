@@ -1,6 +1,6 @@
 import math
 # prueba cambio 
-#cambio 2 
+#cambio nuevo
 def primo(num):
     if num < 0:
         return 'No se permiten números negativos.'
