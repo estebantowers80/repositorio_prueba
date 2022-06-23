@@ -1,6 +1,7 @@
 import math
 # prueba cambio 
 #cambio nuevo
+
 def primo(num):
     if num < 0:
         return 'No se permiten números negativos.'
@@ -30,3 +31,5 @@ def cubica(a):
 def saludo(name):
     return "Hola, " + name
 
+def cambio():
+    return  "cambio"
